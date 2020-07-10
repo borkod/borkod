@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud:, DevOps and Automation :rocket:, Kubernetes :ship:, and Terraform.
+
 <!--
 **borkod/borkod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
