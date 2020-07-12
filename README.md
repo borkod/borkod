@@ -22,7 +22,6 @@ People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=12&t=c&d=2019-11-25&ci=AWS01260907">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-dbs-icon.png" alt="AWS Database" />
 </a>
-<p>
 <a href="https://www.youracclaim.com/badges/2dcd6a6f-70b0-44e3-9b27-8dd4d38a468e/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/azure-solutions-architect-expert-600x600.png" alt="Microsoft Certified: Azure Solutions Architect Expert" />
 </a>
@@ -41,7 +40,6 @@ People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 <a href="https://www.youracclaim.com/badges/37045358-70c5-4fd0-b3e0-f60ef31e35e2/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/kubernetes-ckad-color.png" alt="Certified Kubernetes Application Developer" />
 </a>
-<p>
 <a href="https://www.youracclaim.com/badges/bb30f487-45d2-4dd3-9ef4-4e03e65e0201/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/Terraform-Associate-Badge.png" alt="HashiCorp Certified: Terraform Associate" />
 </a>
