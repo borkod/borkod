@@ -1,9 +1,9 @@
 ### Hi, I'm Borko 👋
 ___
 
-I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud and DevOps and Automation :rocket:.
+I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud: techonologies and DevOps and Automation :rocket:.
 
-I work with <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft-azure&logoColor=white&label=&message=Azure&color=blue">, <img src="https://img.shields.io/static/v1?style=flat&color=orange&logo=amazon-aws&logoColor=white&label=&message=AWS">, <img src="https://img.shields.io/static/v1?style=flat&logo=kubernetes&logoColor=white&label=&message=kubernetes">, and <img src="https://img.shields.io/static/v1?style=flat&logo=terraform&label=&message=Terraform&color=blueviolet">.
+I work with <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft-azure&logoColor=white&label=&message=Azure&color=blue"> <img src="https://img.shields.io/static/v1?style=flat&color=orange&logo=amazon-aws&logoColor=white&label=&message=AWS"> <img src="https://img.shields.io/static/v1?style=flat&logo=kubernetes&logoColor=white&label=&message=kubernetes"> <img src="https://img.shields.io/static/v1?style=flat&logo=terraform&label=&message=Terraform&color=blueviolet">
 
 People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 
