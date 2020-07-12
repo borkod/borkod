@@ -1,9 +1,9 @@
 ### Hi, I'm Borko 👋
-<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=microsoft-azure&logoColor=white&label=&message=Azure&color=blue"><img src="https://img.shields.io/static/v1?style=for-the-badge&color=orange&logo=amazon-aws&logoColor=white&label=&message=AWS"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=terraform&label=&message=Terraform&color=blueviolet"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=kubernetes&logoColor=white&label=&message=kubernetes"></p>
-
 ___
 
-I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud:, DevOps and Automation :rocket:, Kubernetes :ship:, and Terraform.
+I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud and DevOps and Automation :rocket:.
+
+I work with <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft-azure&logoColor=white&label=&message=Azure&color=blue">, <img src="https://img.shields.io/static/v1?style=flat&color=orange&logo=amazon-aws&logoColor=white&label=&message=AWS">, <img src="https://img.shields.io/static/v1?style=flat&logo=kubernetes&logoColor=white&label=&message=kubernetes">, and <img src="https://img.shields.io/static/v1?style=flat&logo=terraform&label=&message=Terraform&color=blueviolet">.
 
 People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 
