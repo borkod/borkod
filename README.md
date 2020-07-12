@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Borko 👋
+___
 I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud:, DevOps and Automation :rocket:, Kubernetes :ship:, and Terraform.
 
 People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
