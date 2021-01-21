@@ -44,7 +44,7 @@ People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/kubernetes-ckad-color.png" alt="CKAD: Certified Kubernetes Application Developer" />
 </a>
 <a href="https://www.youracclaim.com/badges/37045358-70c5-4fd0-b3e0-f60ef31e35e2/public_url">
-<img class="icon-image" height="100" src="www.b3o.ca/assets/images/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" />
+<img class="icon-image" height="100" src="www.b3o.ca/assets/images/kubernetes-security-specialist-logo-300x285.png" alt="CKS: Certified Kubernetes Security Specialist" />
 </a>
 <a href="https://www.youracclaim.com/badges/bb30f487-45d2-4dd3-9ef4-4e03e65e0201/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/Terraform-Associate-Badge.png" alt="HashiCorp Certified: Terraform Associate" />
