@@ -7,22 +7,22 @@ I work with <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft
 
 People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2019-06-26&ci=AWS00210157">
+<a href="https://www.youracclaim.com/badges/c050de1a-06c0-4aba-a0ff-d6b526fd3fe3/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-sap-icon.png" alt="AWS Solutions Professional" />    
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-10-17&ci=AWS00210157">
+<a href="https://www.youracclaim.com/badges/158df23f-efc2-45ed-aa8f-720662e3ee96/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-dop-icon.png" alt="AWS DevOps Engineer Professional" />    
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2016-10-07&ci=AWS00210157">
+<a href="https://www.youracclaim.com/badges/a8903e8c-82f0-487d-9d97-f4338334d53f/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-saa-icon.png" alt="AWS Solutions Architect Associate" />
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2019-03-28&ci=AWS00210157">
+<a href="https://www.youracclaim.com/badges/87e203e9-ebc1-4521-93d7-dc5571a796a8/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-dev-icon.png" alt="AWS Developer Associate" />
  </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-08-06&ci=AWS00210157">
+<a href="https://www.youracclaim.com/badges/3b2b95a9-457c-4fc3-ae86-c527f0a6db7e/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-security-icon.png" alt="AWS Security" />
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=12&t=c&d=2019-11-25&ci=AWS01260907">
+<a href="https://www.youracclaim.com/badges/8657a0bb-dba1-4740-9098-0a6df71bb078/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-dbs-icon.png" alt="AWS Database" />
 </a>
 <a href="https://www.youracclaim.com/badges/2dcd6a6f-70b0-44e3-9b27-8dd4d38a468e/public_url">
@@ -38,10 +38,13 @@ People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/azure-security-engineer-associate600x600.png" alt="Microsoft Certified: Azure Security Engineer Associate" />
 </a>
 <a href="https://www.youracclaim.com/badges/e9162af8-5109-4e1a-a2aa-59884932c671/public_url">
-<img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/logo_cka_whitetext.png" alt="Certified Kubernetes Administrator" />
+<img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/logo_cka_whitetext.png" alt="CKA: Certified Kubernetes Administrator" />
 </a>
 <a href="https://www.youracclaim.com/badges/37045358-70c5-4fd0-b3e0-f60ef31e35e2/public_url">
-<img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/kubernetes-ckad-color.png" alt="Certified Kubernetes Application Developer" />
+<img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/kubernetes-ckad-color.png" alt="CKAD: Certified Kubernetes Application Developer" />
+</a>
+<a href="https://www.youracclaim.com/badges/37045358-70c5-4fd0-b3e0-f60ef31e35e2/public_url">
+<img class="icon-image" height="100" src="www.b3o.ca/assets/images/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" />
 </a>
 <a href="https://www.youracclaim.com/badges/bb30f487-45d2-4dd3-9ef4-4e03e65e0201/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/Terraform-Associate-Badge.png" alt="HashiCorp Certified: Terraform Associate" />
