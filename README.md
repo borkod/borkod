@@ -1,11 +1,11 @@
 ### Hi, I'm Borko 👋
 ___
 
-I am a Cloud Solutions architect and DevOps Engineer passionate about cloud :cloud: technologies and DevOps and Automation :rocket:.
-
-I work with <img src="https://img.shields.io/static/v1?style=flat&logo=microsoft-azure&logoColor=white&label=&message=Azure&color=blue"> <img src="https://img.shields.io/static/v1?style=flat&color=orange&logo=amazon-aws&logoColor=white&label=&message=AWS"> <img src="https://img.shields.io/static/v1?style=flat&logo=kubernetes&logoColor=white&label=&message=kubernetes"> <img src="https://img.shields.io/static/v1?style=flat&logo=terraform&label=&message=Terraform&color=blueviolet">
-
-People say I like to collect certification badges :stuck_out_tongue_closed_eyes:
+- I am an independent consultant and contractor working primarily with public sector and government clients. I typically work in Cloud Architect or DevOps Engineer roles. My focus is working with Kubernetes, AWS, and Azure.
+- Besides my daily professional duties, I do technical reviews of book manuscripts and liveProject coding challenges for [Manning](https://www.manning.com/) publications. It's something I particularly enjoy because it grants me exposure to new technical topics (and I receive free books!).
+- I volunteer as a panel member helping answer questions during [Kubernetes Community Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md).
+- I am a constant learner. Aside from reading books, I listen to many podcasts on variety of topics.
+- Another favorite pastime that occupies my time is running along the beautiful [Rideau Canal](https://en.wikipedia.org/wiki/Rideau_Canal) in Ottawa.
 
 <a href="https://www.youracclaim.com/badges/c050de1a-06c0-4aba-a0ff-d6b526fd3fe3/public_url">
 <img class="icon-image" height="100" src="https://www.b3o.ca/assets/images/aws-sap-icon.png" alt="AWS Solutions Professional" />    
